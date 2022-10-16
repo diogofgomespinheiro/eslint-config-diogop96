@@ -1,5 +1,5 @@
 {
-  "name": "@dfgp/eslint-prettier-config",
+  "name": "@diogop_96/eslint-prettier-config",
   "version": "1.0.0",
   "description": "Personal eslint & prettier config",
   "main": "index.js",
