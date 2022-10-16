@@ -14,7 +14,7 @@
 1. Install the dependencies
 
 ```
-npm i -D eslint @rocketseat/eslint-config
+npm i -D eslint @dfgp/eslint-prettier-config
 ```
 
 2. Create a `.eslintrc.js` file extending the config:
