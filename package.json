@@ -1,6 +1,6 @@
 {
-  "name": "@diogop_96/eslint-prettier-config",
-  "version": "1.0.2",
+  "name": "@diogop_96/eslint-config-custom",
+  "version": "1.0.0",
   "description": "Personal eslint & prettier config",
   "main": "index.js",
   "exports": {
