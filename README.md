@@ -14,14 +14,14 @@
 1. Install the dependencies
 
 ```
-npm i -D eslint @diogop_96/eslint-config-custom
+npm i -D eslint @diogop_96/eslint-config
 ```
 
 2. Create a `.eslintrc.js` file extending the config:
 
 ```
 {
-  "extends": "@diogop_96/eslint-config-custom/react"
+  "extends": "@diogop_96/eslint-config/react"
 }
 ```
 
@@ -29,7 +29,7 @@ npm i -D eslint @diogop_96/eslint-config-custom
 
 ```
 module.exports = {
-    ...require("@diogop_96/eslint-config-custom/prettier"),
+    ...require("@diogop_96/eslint-config/prettier"),
     // your overwrite
     printWidth: 140,
     tabWidth: 4
