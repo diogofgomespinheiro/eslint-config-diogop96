@@ -1,8 +1,12 @@
 {
   "name": "@diogop_96/eslint-prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Personal eslint & prettier config",
   "main": "index.js",
+  "exports": {
+    "./react": "./react.js",
+    "./prettier": "./prettier.js"
+  },
   "repository": "git@github.com:diogofgomespinheiro/eslint-config-dfgp.git",
   "author": "Diogo Pinheiro <diogo.fgomes.pinheiro@gmail.com>",
   "license": "MIT",

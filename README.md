@@ -29,7 +29,7 @@ npm i -D eslint @diogop_96/eslint-prettier-config
 
 ```
 module.exports = {
-    ...require("@@diogop_96/eslint-prettier-config/prettier"),
+    ...require("@diogop_96/eslint-prettier-config/prettier"),
     // your overwrite
     printWidth: 140,
     tabWidth: 4
